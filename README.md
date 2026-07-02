@@ -1,5 +1,5 @@
 ### I am Debugger. Deployer. Refactorer. Architect.
-*The Stack Trace in the Darkness. The Pull Request in the Night.*
+*I am the Stack Trace in the Darkness. The Pull Request in the Night. Mine are logic and Caffeine. I am the Change Agent who breaks prod on Fridays, the DIYer whose projects are almost done, the Philosopher who questions why the requirements changed again. I am Husband, Father, Seeker of Knowledge, Thinker of Deep Thoughts - and I have opinions about your code style. I am not here to be nice about it. I AM ENGINEER!*
 
 📍 Houston, TX &nbsp;·&nbsp; Edge compute, bare metal, things that blink
 
