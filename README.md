@@ -7,10 +7,10 @@
 
 #### Projects
 
-**[driveway-counter](https://github.com/n-vo/driveway-counter)** &nbsp;·&nbsp; `Python` `Hailo` `RPi5`  
+**[driveway-counter](https://github.com/natonet-labs/driveway-counter)** &nbsp;·&nbsp; `Python` `Hailo` `RPi5`  
 15 FPS AI vehicle counter running on a Raspberry Pi 5 + Hailo-8 NPU at 7% CPU. YOLOv8m inference on-chip, zone-based bidirectional counting, daily JSON reports, optional live Cloudflare dashboard.
 
-**[driveway-metrics](https://github.com/n-vo/driveway-metrics)** &nbsp;·&nbsp; `TypeScript` `Cloudflare Workers`  
+**[driveway-metrics](https://github.com/natonet-labs/driveway-metrics)** &nbsp;·&nbsp; `TypeScript` `Cloudflare Workers`  
 Cloudflare Workers backend that receives hourly snapshots from the Pi, stores them in KV, and serves today's totals, an intraday bar chart, and 30-day history — accessible from anywhere without exposing the Pi.
 
 **[inky-frame](https://github.com/n-vo/inky-frame)** &nbsp;·&nbsp; `MicroPython` `Pico W`  
